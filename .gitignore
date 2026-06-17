@@ -36,3 +36,7 @@ data/
 token_estimator_test.go
 skills-lock.json
 .playwright-mcp
+
+.claude
+.mcp.json
+.codegraph
